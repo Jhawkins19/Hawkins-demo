@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8"> 
+   <title>ITMD-361 Internet Technologies and Web Design</title
+</head>   
+<body>
+  <h1>Hello Everyone</h1>
+  <p> Hi, I'm Jasmine this is my first webpage </p>
+  <p>I'm from Hyde Park but lived on the East Coast in the Maryland area for years.</p>
+  <p>I really like Graphic Design but I want to learn Web development and gain more coding knowledge</p>
+  <p>In my free time I enjoy sketching, going on photography adventures and reading inspirational books.</p>
+</body>
+</html>
